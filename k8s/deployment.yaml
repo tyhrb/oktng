@@ -27,7 +27,7 @@ spec:
         - name: Vless_Path
           value: "/s233tikotaoi"
         - name: Vmess_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "d0a8b74b-2e9f-4a29-9610-3e367fd7a43d"
         - name: Vmess_Path
           value: "/s244tikotaoi"
         - name: Share_Path
